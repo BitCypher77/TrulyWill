@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io](https://png.pngtree.com/thumb_back/fh260/background/20201104/pngtree-technology-background-binary-computer-code-vector-design-image_458702.jpg))
 <h1 align="center">Hi 👋, I'm TrulyWill</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, KENYA.</h3>
 <img align = "right" alt = "coding" src="https://t4.ftcdn.net/jpg/03/13/40/45/240_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
